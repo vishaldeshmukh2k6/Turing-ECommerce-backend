@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# DB files (optional)
+*.sqlite3
+*.db
+
+# Migrations (optional)
+migrations/
+
+# Logs
+*.log
+
+# Pytest cache
+.pytest_cache/
+
+# MacOS
+.DS_Store
